@@ -1,6 +1,6 @@
 # stack-test
 
-## Project setup
+## Node.JS version
 ```
 v16.15.0
 ```
