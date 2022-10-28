@@ -2,6 +2,11 @@
 
 ## Project setup
 ```
+v16.15.0
+```
+
+## Project setup
+```
 npm install
 ```
 
